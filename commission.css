@@ -38,18 +38,6 @@
     padding-left: 20px;
 }
 
-
-.price {
-    font-weight: bold;
-    color: #0056b3;
-    font-size: 1.1rem;
-}
-
-/* Style the ordered list for the process section */
-.process ol {
-    padding-left: 20px;
-}
-
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .commission-item {

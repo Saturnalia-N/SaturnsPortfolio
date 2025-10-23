@@ -1,0 +1,14 @@
+/* Writing Page Styles */
+   
+.writing-piece {
+    text-align: left;
+    margin-bottom: 2rem;
+}
+.writing-piece h2 {
+    color: #0056b3;
+    margin-bottom: 0.5rem;
+}
+.writing-piece p {
+    font-family: Georgia, serif;
+    line-height: 1.8;
+}
